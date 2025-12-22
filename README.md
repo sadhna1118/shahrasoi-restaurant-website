@@ -1,5 +1,7 @@
 🍽️ Shah Rasoi – Restaurant Website
+
 https://sadhna1118.github.io/shahrasoi-restaurant-website/
+
 Shah Rasoi is a modern, responsive restaurant website designed to showcase menu items, special dishes, and contact details in an attractive and user-friendly way.
 This project is built using HTML, CSS, and JavaScript and focuses on clean UI, smooth navigation, and responsive design.
 
